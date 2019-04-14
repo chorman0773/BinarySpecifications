@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Binary Specifications #
 
-You can use the [editor on GitHub](https://github.com/chorman0773/BinarySpecifications/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lists all of the Binary File Format Specifications I have released in a single aggregate repository. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Copyright (C)  2019  Connor Horman.
+Permission is granted to copy, distribute and/or modify these document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
-### Markdown
+## ShadeNBT ##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3 Versions of the ShadeNBT Specification Have been released, the lastest is Version 1.2. 
 
-```markdown
-Syntax highlighted code block
+### Versions of ShadeNBT Release ###
 
-# Header 1
-## Header 2
-### Header 3
+[1.0](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.0)
 
-- Bulleted
-- List
+[1.1](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.1)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chorman0773/BinarySpecifications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1.2](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.2)
