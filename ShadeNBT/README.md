@@ -1,4 +1,4 @@
-# ShadeNBT #
+# ShadeNBT 
 
 This Site/Directory is the main page for Versions of the ShadeNBT Specification. 
 
@@ -13,6 +13,12 @@ However, not all valid NBT Files can be used inside a valid ShadeNBT File, and n
 3. For compliance with LCLib Binary IO, NaN values are prohibited in both `TAG_Floats` and `TAG_Doubles`. Note that this is changed in the 1.3 Draft, see the Draft Version Document for details. 
 
 The above list is not exhaustive, there are a large number of differences between the normal NBT Specification, and the Specification for the "NBT Part" of the ShadeNBT Specification. 
+
+## Media Types
+
+For transportation of ShadeNBT Files, the Media Type application/vnd.shade-save-file MUST be used. 
+
+ShadeNBT Files may be stored with any file extension, however it should use either .ssv, .sav, or .snbt.
 
 ## Released Versions ##
 
