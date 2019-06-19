@@ -36,4 +36,6 @@ In addition to the above 3 Releases, there is a Draft of ShadeNBT in the works f
 
 The Draft of the 1.3 Version of the ShadeNBT Specification can be found [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
 
+## CryptoShade Variant
 
+Certain extensions to the ShadeNBT Format MAY additionally be supported. These extensions can be found [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/CryptoShade)
