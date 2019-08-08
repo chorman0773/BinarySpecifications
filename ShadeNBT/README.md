@@ -18,11 +18,13 @@ The above list is not exhaustive, there are a large number of differences betwee
 
 For transportation of ShadeNBT Files, the Media Type application/vnd.shade-save-file MUST be used. 
 
-ShadeNBT Files may be stored with any file extension, however it should use either .ssv, .sav, or .snbt.
+ShadeNBT Files may be stored with any file extension, however it should use either .ssv, .sav, or .snbt. 
+
+CryptoShade files should use .ssv or .ssvc.
 
 ## Released Versions ##
 
-So Far, 3 versions of the ShadeNBT Specification have been released, the latest being 1.2. Each Version can be found here:
+So Far, 4 versions of the ShadeNBT Specification have been released, the latest being 1.3. Each Version can be found here:
 
 [1.0](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.0)
 
@@ -30,11 +32,7 @@ So Far, 3 versions of the ShadeNBT Specification have been released, the latest 
 
 [1.2](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.2)
 
-## Draft Version ##
-
-In addition to the above 3 Releases, there is a Draft of ShadeNBT in the works for Version 1.3. This Draft is set for release in June 2019. It may recieve updates and breaking changes from now until then. 
-
-The Draft of the 1.3 Version of the ShadeNBT Specification can be found [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
+[1.3](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
 
 ## CryptoShade Variant
 
