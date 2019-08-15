@@ -14,7 +14,11 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 The main page for ShadeNBT is [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT)
 
-Permanent Link to the Most Up to date Release [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest).
+The Permanent Link to the Most Up to date Release is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. This URL will always give the latest released version of the ShadeNBT specification.
+
+The Permanent Link to the Most Up to Date Version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest-draft>. This will point to the latest draft version if there is a working draft, otherwise to the latest released version. 
+
+
 
 ### Versions of ShadeNBT Release ###
 
