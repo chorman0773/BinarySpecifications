@@ -10,9 +10,11 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 ## ShadeNBT ##
 
-3 Versions of the ShadeNBT Specification Have been released, the latest is Version 1.2. 
+4 Versions of the ShadeNBT Specification Have been released, the latest is Version 1.3. 
 
 The main page for ShadeNBT is [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT)
+
+Permanent Link to the Most Up to date Release [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest).
 
 ### Versions of ShadeNBT Release ###
 
@@ -21,6 +23,8 @@ The main page for ShadeNBT is [here](https://chorman0773.github.io/BinarySpecifi
 [1.1](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.1)
 
 [1.2](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.2)
+
+[1.3](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
 
 ## Gac14 Binary Formats 
 
