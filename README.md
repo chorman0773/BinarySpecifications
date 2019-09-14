@@ -62,5 +62,12 @@ The main page for this format is [here](https://chorman0773.github.io/BinarySpec
 One version of this specification has been published:
 * [1.0](https://chorman0773.github.io/BinarySpecifications/OMGDC/LevelFormat/1.0)
 
+## SNES-DEV Page Table Format
 
+The SNES-DEV Page Table File Format is defined for various systems which work with the 65816 processor, including SNES-DEV, SNES-DEV Firmware, and SNES-DEV Debug Emulators, to have a general format for standard memory manipulation, as well as Memory-Mapped IO. 
+
+The main page for this format is [here](https://chorman0773.github.io/BinarySpecifications/SNES-DevPageTable). The latest version is accessible [here](https://chorman0773.github.io/BinarySpecifications/SNES-DevPageTable/latest).
+
+One version of this specification has been published:
+* [1.0](https://chorman0773.github.io/BinarySpecifications/SNES-DevPageTable/1.0)
 
