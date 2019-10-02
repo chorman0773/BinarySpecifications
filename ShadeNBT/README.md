@@ -35,6 +35,8 @@ So Far, 4 versions of the ShadeNBT Specification have been released, the latest 
 
 [1.3](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
 
+There is additionally a draft version [1.4](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.4), which is expected to be released in January of 2020. 
+
 ## CryptoShade Variant
 
 Certain extensions to the ShadeNBT Format MAY additionally be supported. These extensions can be found [here](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/CryptoShade)
