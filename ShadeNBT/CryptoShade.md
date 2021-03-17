@@ -13,6 +13,8 @@ These extensions may be applied to any version of the ShadeNBT Specification.
 The CryptoShade header consists of a valid ShadeNBT header, except that magic is the bytes `[EC 4E 42 54]` instead of `[AD 4E 42 54]` and that header shall be followed by a ushort numBlocks, a 32-byte salt, and a 16-byte IV. 
 Following this, a SHA-256 hash of the password, with the first 8 bytes of the salt appended, appears. When loading with a password this field MUST match.
 
+For version 1.3 or later, the SHA-256 hash for shadeFlag 0x40 appears after the complete CryptoShade Header, before the content of the file, and the hash is of the `TAG_Compound`. 
+
 The Remainder of the file is numBlocks blocks of 16-bytes instead of a `TAG_Compound`. These blocks, when decrypted as below, MUST result in a valid `TAG_Compound` which could exist inside a ShadeNBT File with the same version, and ShadeFlags (if applicable), that are used with this CryptoShade File. 
 
 
