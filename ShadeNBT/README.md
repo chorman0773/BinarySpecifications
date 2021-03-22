@@ -25,7 +25,7 @@ CryptoShade files should use .ssv or .ssvc. The media Type application/vnd.crypt
 
 ## Released Versions ##
 
-So Far, 4 versions of the ShadeNBT Specification have been released, the latest being 1.4. Each Version can be found here:
+So Far, 5 versions of the ShadeNBT Specification have been released, the latest being 1.4. Each Version can be found here:
 
 * [1.0](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.0)
 * [1.1](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.1)
@@ -34,6 +34,9 @@ So Far, 4 versions of the ShadeNBT Specification have been released, the latest 
 * [1.4](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.4)
 
 The permanent link to the latest version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. The permanent link to the latest draft version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. 
+
+For the most part, versions of ShadeNBT will remain stable. From time to time, however, Retroactive Changes may be applied to correct Defects. As of this date, 1 Defect Report has been published, and the changes applied to the correct Versions:
+* [DR1](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/DR1): Versions 1.0, 1.1, 1.2, 1.3, and 1.4
 
 ## CryptoShade Variant
 
