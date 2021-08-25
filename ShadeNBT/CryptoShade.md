@@ -15,6 +15,8 @@ Following this, a SHA-256 hash of the password, with the first 8 bytes of the sa
 
 For version 1.3 or later, the SHA-256 hash for shadeFlag 0x40 appears after the complete CryptoShade Header, before the content of the file, and the hash is of the `TAG_Compound`. 
 
+For version 1.5 or later of the ShadeNBT format, a two byte field that contains a version preceeds `numBlocks`, and dictates the structure of the CryptoShade header. In version 1.0, and prior to version 1.5 of the ShadeNBT format,
+
 The Remainder of the file is numBlocks blocks of 16-bytes instead of a `TAG_Compound`. These blocks, when decrypted as below, MUST result in a valid `TAG_Compound` which could exist inside a ShadeNBT File with the same version, and ShadeFlags (if applicable), that are used with this CryptoShade File. 
 
 
