@@ -2,7 +2,7 @@
 
 This Site/Directory is the main page for Versions of the ShadeNBT Specification. 
 
-The ShadeNBT Specification is used to provide some strong protection against corrupt save files, while maintaining Binary Version Compatability, using the easily used Named Binary Tag Format, created by Markus "Notch" Person, for the Game Minecraft. 
+The ShadeNBT Specification is used to provide some strong protection against corrupt save files, while maintaining Binary Version Compatability, using the easily used Named Binary Tag Format, created by Markus "Notch" Perrson, for the Game Minecraft. 
 
 
 The ShadeNBT Specification is designed to be easy to implement. 
@@ -33,7 +33,7 @@ So Far, 5 versions of the ShadeNBT Specification have been released, the latest 
 * [1.3](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.3)
 * [1.4](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/1.4)
 
-The permanent link to the latest version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. The permanent link to the latest draft version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. 
+The permanent link to the latest version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest>. The permanent link to the latest draft version is <https://chorman0773.github.io/BinarySpecifications/ShadeNBT/latest-draft>. 
 
 For the most part, versions of ShadeNBT will remain stable. From time to time, however, Retroactive Changes may be applied to correct Defects. As of this date, 1 Defect Report has been published, and the changes applied to the correct Versions:
 * [DR1](https://chorman0773.github.io/BinarySpecifications/ShadeNBT/DR1): Versions 1.0, 1.1, 1.2, 1.3, and 1.4
